@@ -1,0 +1,36 @@
+body {
+  background-color:#dae1e7;
+}
+h1{
+  color: #00909e;
+}
+h3{
+  color: #00909e;
+}
+/* unvisited link */
+a:visited {
+  color: #00909e;
+  text-decoration: none;
+}
+/* visited link */
+a:link {
+  color: #00909e;
+  text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
+/* selected link */
+a:active {
+  color: #79a3b1;
+  text-decoration: none;
+}
+hr{
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width:4px;
+  width:4%;
+}
