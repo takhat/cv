@@ -7,12 +7,12 @@ h1{
 h3{
   color: #00909e;
 }
-/* unvisited link */
+/* visited link */
 a:visited {
   color: #00909e;
   text-decoration: none;
 }
-/* visited link */
+/* unvisited link */
 a:link {
   color: #00909e;
   text-decoration: none;
@@ -33,4 +33,7 @@ hr{
   border-top-style: dotted;
   border-width:4px;
   width:4%;
+}
+.circular{
+  border-radius: 100%;
 }
