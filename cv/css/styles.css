@@ -1,6 +1,5 @@
 body {
   background-color:#dae1e7;
-  font-family:sans-serif;
 }
 h1{
   color: #00909e;
@@ -8,12 +7,12 @@ h1{
 h3{
   color: #00909e;
 }
-/* visited link */
+/* unvisited link */
 a:visited {
   color: #00909e;
   text-decoration: none;
 }
-/* unvisited link */
+/* visited link */
 a:link {
   color: #00909e;
   text-decoration: none;
@@ -34,7 +33,4 @@ hr{
   border-top-style: dotted;
   border-width:4px;
   width:4%;
-}
-.circular{
-  border-radius: 100%;
 }
